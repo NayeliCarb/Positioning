@@ -7,24 +7,29 @@ div{
 .rosa{
 	background-color: #FF0080;
 	position:absolute;
-	bottom: 50px;	
+	left: 0px;
+	top: 0px;	
 	
 }
 .azul{
 	background-color: #01DFD7;
-	position: relative;
-	left: 500px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
 
 }
 .morado{
 	background-color: #8A0868;
 	position: absolute;	
+	left: 0px;
+	bottom: 0px;
 	
 }
 .verde{
 	background-color: #04B486;
 	position: absolute;
-	left: 500px;
+	right: 0px;
+	bottom: 0px;
 }
 body{
 	margin: 0px;
