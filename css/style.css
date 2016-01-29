@@ -1,0 +1,25 @@
+div{
+	width: 200px;
+	height: 200px;
+	
+}
+
+.rosa{
+	background-color: #FF0080;
+		
+	
+}
+.azul{
+	background-color: #01DFD7;
+	
+}
+.morado{
+	background-color: #8A0868;
+	
+	
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
