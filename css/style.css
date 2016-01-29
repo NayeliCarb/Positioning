@@ -6,19 +6,25 @@ div{
 
 .rosa{
 	background-color: #FF0080;
-	position:static;	
+	position:absolute;
+	bottom: 50px;	
 	
 }
 .azul{
 	background-color: #01DFD7;
 	position: relative;
-	left: 200px;
+	left: 500px;
+
 }
 .morado{
 	background-color: #8A0868;
-	position: static;
-	top: 50px;
+	position: absolute;	
 	
+}
+.verde{
+	background-color: #04B486;
+	position: absolute;
+	left: 500px;
 }
 body{
 	margin: 0px;
