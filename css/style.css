@@ -6,30 +6,24 @@ div{
 
 .rosa{
 	background-color: #FF0080;
-	position:absolute;
-	left: 0px;
-	top: 0px;	
+	position:static;	
 	
 }
 .azul{
 	background-color: #01DFD7;
 	position: absolute;
-	right: 0px;
-	top: 0px;
+	left: 200px;
 
 }
 .morado{
 	background-color: #8A0868;
-	position: absolute;	
-	left: 0px;
-	bottom: 0px;
+	position: static;
+	
 	
 }
 .verde{
 	background-color: #04B486;
-	position: absolute;
-	right: 0px;
-	bottom: 0px;
+	position: static;
 }
 body{
 	margin: 0px;
